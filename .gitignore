@@ -1,0 +1,7 @@
+*.pdf
+*.html
+.ipynb_checkpoints
+test/*
+test2/*
+yoloDetection.ipynb
+data/*
