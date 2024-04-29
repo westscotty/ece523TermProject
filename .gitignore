@@ -5,3 +5,5 @@ test/*
 test2/*
 yoloDetection.ipynb
 data/*
+__pycache__
+*.pt
